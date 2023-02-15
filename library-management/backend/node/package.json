@@ -1,0 +1,16 @@
+{
+  "name": "lm",
+  "version": "1.0.0",
+  "description": "Library Management API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lm",
+    "library",
+    "books"
+  ],
+  "author": "Wisnu Prasojo Widianto",
+  "license": "ISC"
+}
